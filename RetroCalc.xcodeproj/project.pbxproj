@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		93111E771DD17E7E00A9466F /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 93111E761DD17E7E00A9466F /* Minecraft.ttf */; };
 		936CE8301DD14454003E1146 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936CE82F1DD14454003E1146 /* AppDelegate.swift */; };
 		936CE8321DD14454003E1146 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936CE8311DD14454003E1146 /* ViewController.swift */; };
 		936CE8351DD14454003E1146 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 936CE8331DD14454003E1146 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		93111E761DD17E7E00A9466F /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 		936CE82C1DD14454003E1146 /* RetroCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RetroCalc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		936CE82F1DD14454003E1146 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		936CE8311DD14454003E1146 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		936CE82E1DD14454003E1146 /* RetroCalc */ = {
 			isa = PBXGroup;
 			children = (
+				93111E761DD17E7E00A9466F /* Minecraft.ttf */,
 				936CE82F1DD14454003E1146 /* AppDelegate.swift */,
 				936CE8311DD14454003E1146 /* ViewController.swift */,
 				936CE8331DD14454003E1146 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				936CE83A1DD14454003E1146 /* LaunchScreen.storyboard in Resources */,
 				936CE8371DD14454003E1146 /* Assets.xcassets in Resources */,
+				93111E771DD17E7E00A9466F /* Minecraft.ttf in Resources */,
 				936CE8351DD14454003E1146 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				936CE8401DD14454003E1146 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
